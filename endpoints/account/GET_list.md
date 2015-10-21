@@ -1,4 +1,4 @@
-# Photo Resources
+# Account
 
     GET api/account/list
 
