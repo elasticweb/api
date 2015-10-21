@@ -1,5 +1,9 @@
 # Elasticweb API
 
+## Sandbox
+
+You can edit status Sandbox on page http://elasticweb.org/user/api.
+
 ## Potential errors
 
 * **200 OK**: _Successful API request._
