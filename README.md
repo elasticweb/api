@@ -13,3 +13,4 @@
 #### Account
 
 - **[<code>GET</code> api/account/list](https://github.com/elasticweb/api/blob/master/endpoints/account/GET_list.md)**
+- **[<code>DELETE</code> api/account/entry/:id](https://github.com/elasticweb/api/blob/master/endpoints/account/DELETE_entry.md)**
