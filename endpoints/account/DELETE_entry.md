@@ -19,6 +19,6 @@ All known errors cause the resource to return HTTP error code header together wi
 ```json
 {
   "status":true,
-  "message": "Account deleted."
+  "message":"Account deleted."
 }
 ```
