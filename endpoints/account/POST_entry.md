@@ -9,7 +9,8 @@ Create new user hosting-account.
 ## Parameters
 
 - **server** _(required)_ — Server ID. See method ( GET api/account/list ).
-- **domain** — Domain name without http and slash.
+- **domain** _(optional)_ — Domain name without http and slash.
+- **nginx_id** _(optional)_ — Nginx ID for domain. ( GET api/domain/api/domain/nginx_configurations )
 
 ## Errors
 
