@@ -1,6 +1,6 @@
 # Account list
 
-    GET api/domain/list
+    GET api/domain/list/:account_id
 
 ## Description
 
