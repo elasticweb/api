@@ -23,5 +23,5 @@ You can edit status Sandbox on page http://elasticweb.org/user/api.
 
 #### Domain
 
-- **[<code>GET</code> api/domain/list](https://github.com/elasticweb/api/blob/master/endpoints/domain/GET_list.md)**
+- **[<code>GET</code> api/domain/list/:account_id](https://github.com/elasticweb/api/blob/master/endpoints/domain/GET_list.md)**
 - **[<code>GET</code> api/domain/api/domain/nginx_configurations](https://github.com/elasticweb/api/blob/master/endpoints/domain/GET_nginx_configurations.md)**
