@@ -24,4 +24,14 @@ You can edit status Sandbox on page http://elasticweb.org/user/api.
 #### Domain
 
 - **[<code>GET</code> api/domain/list/:account_id](https://github.com/elasticweb/api/blob/master/endpoints/domain/GET_list.md)**
-- **[<code>GET</code> api/domain/api/domain/nginx_configurations](https://github.com/elasticweb/api/blob/master/endpoints/domain/GET_nginx_configurations.md)**
+- **[<code>GET</code> api/domain/nginx_configurations](https://github.com/elasticweb/api/blob/master/endpoints/domain/GET_nginx_configurations.md)**
+- **[<code>POST</code> api/domain/entry/:account_id](https://github.com/elasticweb/api/blob/master/endpoints/domain/POST_entry.md)**
+- **[<code>PATCH</code> api/domain/entry/:domain_name](https://github.com/elasticweb/api/blob/master/endpoints/domain/PATCH_entry.md)**
+- **[<code>DELETE</code> api/domain/entry/:domain_name](https://github.com/elasticweb/api/blob/master/endpoints/domain/DELETE_entry.md)**
+
+#### DNS
+
+- **[<code>GET</code> api/dns/list/:domain_name](https://github.com/elasticweb/api/blob/master/endpoints/dns/GET_list.md)**
+- **[<code>GET</code> api/dns/entry/:dns_id](https://github.com/elasticweb/api/blob/master/endpoints/dns/GET_entry.md)**
+- **[<code>POST</code> api/dns/entry/:domain_name](https://github.com/elasticweb/api/blob/master/endpoints/dns/POST_entry.md)**
+- **[<code>DELETE</code> api/dns/entry/:dns_id](https://github.com/elasticweb/api/blob/master/endpoints/dns/DELETE_entry.md)**
