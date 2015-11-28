@@ -35,3 +35,7 @@ You can edit status Sandbox on page http://elasticweb.org/user/api.
 - **[<code>GET</code> api/dns/entry/:dns_id](https://github.com/elasticweb/api/blob/master/endpoints/dns/GET_entry.md)**
 - **[<code>POST</code> api/dns/entry/:domain_name](https://github.com/elasticweb/api/blob/master/endpoints/dns/POST_entry.md)**
 - **[<code>DELETE</code> api/dns/entry/:dns_id](https://github.com/elasticweb/api/blob/master/endpoints/dns/DELETE_entry.md)**
+
+## Examples
+
+- **[PHP](https://github.com/elasticweb/api/blob/master/examples/php.md)**
