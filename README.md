@@ -36,6 +36,17 @@ You can edit status Sandbox on page http://elasticweb.org/user/api.
 - **[<code>POST</code> api/dns/entry/:domain_name](https://github.com/elasticweb/api/blob/master/endpoints/dns/POST_entry.md)**
 - **[<code>DELETE</code> api/dns/entry/:dns_id](https://github.com/elasticweb/api/blob/master/endpoints/dns/DELETE_entry.md)**
 
+#### Database
+
+- **[<code>GET</code> api/database/list/:account_id](https://github.com/elasticweb/api/blob/master/endpoints/database/GET_list.md)**
+- **[<code>POST</code> api/database/entry/:account_id](https://github.com/elasticweb/api/blob/master/endpoints/database/POST_entry.md)**
+- **[<code>DELETE</code> api/database/entry/:account_id/:db_name](https://github.com/elasticweb/api/blob/master/endpoints/database/DELETE_entry.md)**
+
+#### Database user
+
+- **[<code>POST</code> api/database_user/entry/:account_id](https://github.com/elasticweb/api/blob/master/endpoints/database_user/POST_entry.md)**
+- **[<code>DELETE</code> api/database_user/entry/:account_id/:db_user_name](https://github.com/elasticweb/api/blob/master/endpoints/database_user/DELETE_entry.md)**
+
 ## Examples
 
 - **[PHP](https://github.com/elasticweb/api/blob/master/examples/php.md)**
