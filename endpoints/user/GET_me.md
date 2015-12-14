@@ -13,7 +13,7 @@ Returns information about current user.
 ```json
 {
   "status":true,
-  "data":[
+  "data":{
     "id": "1",
     "mail": "test@example.com",
     "first_name": "Test",
