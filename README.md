@@ -55,6 +55,11 @@ You can edit status Sandbox on page http://elasticweb.org/user/api.
 - **[<code>POST</code> api/database_user/entry/:account_id](https://github.com/elasticweb/api/blob/master/endpoints/database_user/POST_entry.md)**
 - **[<code>DELETE</code> api/database_user/entry/:account_id/:db_user_name](https://github.com/elasticweb/api/blob/master/endpoints/database_user/DELETE_entry.md)**
 
+#### Billing
+
+- **[<code>GET</code> api/billing/operation_types](https://github.com/elasticweb/api/blob/master/endpoints/billing/GET_operation_types.md)**
+- **[<code>GET</code> api/billing/operations/:type_name](https://github.com/elasticweb/api/blob/master/endpoints/billing/GET_operations.md)**
+
 ## Examples
 
 - **[PHP](https://github.com/elasticweb/api/blob/master/examples/php.md)**
