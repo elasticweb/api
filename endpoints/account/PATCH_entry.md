@@ -32,7 +32,6 @@ All known errors cause the resource to return HTTP error code header together wi
     "ip_address":"176.31.116.184",
     "server_host":"yellow.elastictech.org",
     "server_id":3
-   }
   }
 }
 ```

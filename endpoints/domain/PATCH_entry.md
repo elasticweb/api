@@ -30,6 +30,5 @@ All known errors cause the resource to return HTTP error code header together wi
 {
   "status":true,
   "message":"Domain updated."
-  }
 }
 ```
