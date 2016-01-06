@@ -1,4 +1,4 @@
-# Account list
+# Domains list
 
     GET api/domain/list/:account_id
 

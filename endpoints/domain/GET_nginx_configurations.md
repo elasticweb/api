@@ -1,6 +1,6 @@
 # List nginx configurations
 
-    GET api/domain/api/domain/nginx_configurations
+    GET api/domain/nginx_configurations
 
 ## Description
 
