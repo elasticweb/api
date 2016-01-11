@@ -29,6 +29,13 @@ You can edit status Sandbox on page http://elasticweb.org/user/api.
 
 - **[<code>GET</code> api/server/list](https://github.com/elasticweb/api/blob/master/endpoints/server/GET_list.md)**
 
+#### Alias
+
+- **[<code>GET</code> api/alias/list/:account_id](https://github.com/elasticweb/api/blob/master/endpoints/alias/GET_list.md)**
+- **[<code>POST</code> api/alias/entry/:account_id](https://github.com/elasticweb/api/blob/master/endpoints/alias/POST_entry.md)**
+- **[<code>PATCH</code> api/alias/entry/:alias_name](https://github.com/elasticweb/api/blob/master/endpoints/alias/PATCH_entry.md)**
+- **[<code>DELETE</code> api/alias/entry/:alias_name](https://github.com/elasticweb/api/blob/master/endpoints/alias/DELETE_entry.md)**
+
 #### Domain
 
 - **[<code>GET</code> api/domain/list/:account_id](https://github.com/elasticweb/api/blob/master/endpoints/domain/GET_list.md)**
