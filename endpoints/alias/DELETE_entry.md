@@ -1,6 +1,6 @@
 # Delete domain alias
 
-    DELETE api/alias/entry/:domain_name
+    DELETE api/alias/entry/:alias_name
 
 ## Description
 

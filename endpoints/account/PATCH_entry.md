@@ -4,7 +4,7 @@
 
 ## Description
 
-Edit user hosting-account.
+Edit node.
 
 ## Parameters
 

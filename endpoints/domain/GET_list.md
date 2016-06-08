@@ -4,7 +4,7 @@
 
 ## Description
 
-Returns information about domains for hosting-account.
+Returns information about domains for node.
 
 ## Errors
 All known errors cause the resource to return HTTP error code header together with a JSON array containing at least 'status' and 'message' keys describing the source of error.

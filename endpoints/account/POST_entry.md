@@ -4,7 +4,15 @@
 
 ## Description
 
-Create new user hosting-account.
+Create new node. Access for SSH / SFTP authorization will be:
+
+```
+host: yellow.elastictech.org
+username: u120
+password: mOH9gTFYXkp9
+```
+
+See example response.
 
 ## Parameters
 
@@ -31,7 +39,8 @@ All known errors cause the resource to return HTTP error code header together wi
     "status":1,
     "ip_address":"176.31.116.184",
     "server_host":"yellow.elastictech.org",
-    "server_id":3
+    "server_id":3,
+    "password":"mOH9gTFYXkp9"
   }
 }
 ```

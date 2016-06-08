@@ -4,7 +4,7 @@
 
 ## Description
 
-Delete user hosting-account.
+Delete node.
 
 ## Errors
 
